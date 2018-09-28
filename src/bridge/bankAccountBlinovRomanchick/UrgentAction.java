@@ -5,8 +5,8 @@ package bridge.bankAccountBlinovRomanchick;
  */
 public class UrgentAction extends Action {
 
-    static final int MONTHLY_PAYMENT = 10; //read from base
-    private static final int MAX_SUM = 50; //read from base
+    static final int MONTHLY_PAYMENT = 10; //read from baseExample
+    private static final int MAX_SUM = 50; //read from baseExample
 
     @Override
     public double chargeInterest() {

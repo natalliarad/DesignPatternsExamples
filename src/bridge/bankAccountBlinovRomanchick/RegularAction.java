@@ -5,8 +5,8 @@ package bridge.bankAccountBlinovRomanchick;
  */
 public class RegularAction extends Action {
 
-    private static final int MAX_SUM = 100; //read from base
-    private static final int NORMAL_INTEREST = 3; //read from base
+    private static final int MAX_SUM = 100; //read from baseExample
+    private static final int NORMAL_INTEREST = 3; //read from baseExample
 
     @Override
     public double chargeInterest() {
