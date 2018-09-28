@@ -1,4 +1,4 @@
-package bridge.bankaccountBlinovRomanchick;
+package bridge.bankAccountBlinovRomanchick;
 
 public interface IAction {
 

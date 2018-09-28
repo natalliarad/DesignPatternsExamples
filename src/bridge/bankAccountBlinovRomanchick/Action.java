@@ -1,4 +1,4 @@
-package bridge.bankaccountBlinovRomanchick;
+package bridge.bankAccountBlinovRomanchick;
 
 /**
  * Abstract class which implements Implementor {@link IAction}. May contain general methods for
